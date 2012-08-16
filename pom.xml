@@ -203,6 +203,7 @@
   <scm>
     <!-- connection>scm:svn:https://svn.codehaus.org/jaxen/trunk/jaxen/</connection -->
     <connection>scm:git:https://github.com/doncorley/jaxen.git</connection>
+    <developerConnection>scm:git:https://github.com/doncorley/jaxen.git</developerConnection>
     <url>http://fisheye.codehaus.org/browse/jaxen/tags/jaxen-1.1.4</url>
   </scm>
 
