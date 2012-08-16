@@ -397,11 +397,11 @@
   </reporting>
 
   <distributionManagement>
-    <repository>
+    <!-- repository>
       <id>default</id>
       <name>Default Repository</name>
       <url>file:///dist</url>
-    </repository>
+    </repository -->
     <site>
       <id>default</id>
       <name>Default Site</name>
